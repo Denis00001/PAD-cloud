@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="293c2d8e-a593-492d-934e-9827b1c6054b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/azureSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/HelloWorld.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/HelloWorld/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/HelloWorld/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kTYkORvTmSc3UpMGsvq5wdsOYa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Azure Web App: HelloWorld:HelloWorld" type="com.microsoft.intellij.run.configuration.WebAppConfigurationType" factoryName="Azure Web App">
+      <option name="OS" value="linux" />
+      <option name="appServicePlanId" />
+      <option name="appServicePlanName" value="" />
+      <option name="creatingAppServicePlan" value="true" />
+      <option name="creatingNew" value="false" />
+      <option name="creatingResGrp" value="true" />
+      <option name="deployToRoot" value="true" />
+      <option name="deployToSlot" value="false" />
+      <option name="jdkVersion">
+        <JavaVersion />
+      </option>
+      <option name="newSlotConfigurationSource" value="Don't clone configuration from an existing slot" />
+      <option name="newSlotName" value="slot-201118213908" />
+      <option name="openBrowserAfterDeployment" value="true" />
+      <option name="pricing" value="Basic_B1" />
+      <option name="region" value="westeurope" />
+      <option name="resourceGroup" value="" />
+      <option name="slotName" value="+ Create new deployment slot" />
+      <option name="slotPanelVisible" value="true" />
+      <option name="stack" value="TOMCAT" />
+      <option name="subscriptionId" value="c03a4e0f-05a5-44d4-9a88-8fd98180c53a" />
+      <option name="targetName" value="HelloWorld.war" />
+      <option name="targetPath" value="E:\Usefull\PAD_example\HelloWorld\target\HelloWorld.war" />
+      <option name="uiVersion" value="NEW" />
+      <option name="version" value="9.0-jre8" />
+      <option name="webAppId" value="/subscriptions/c03a4e0f-05a5-44d4-9a88-8fd98180c53a/resourceGroups/HelloWorld_new/providers/Microsoft.Web/sites/HelloWorld-QQ" />
+      <option name="webAppName" value="" />
+      <option name="webContainer" value="" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../HelloWorld\pom.xml" goal="package" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="293c2d8e-a593-492d-934e-9827b1c6054b" name="Default Changelist" comment="" />
+      <created>1605726190862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605726190862</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="0" width="561" height="728" key="#Azure_Web_App:_HelloWorld:HelloWorld" timestamp="1606934013032">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" width="561" height="728" key="#Azure_Web_App:_HelloWorld:HelloWorld/0.0.1366.728@0.0.1366.728" timestamp="1606934013032" />
+    <state x="153" y="0" width="1092" height="604" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606934292677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="153" y="0" width="1092" height="604" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606934292677" />
+    <state width="1306" height="149" key="GridCell.Tab.0.bottom" timestamp="1606935163991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606935163991" />
+    <state width="1306" height="149" key="GridCell.Tab.0.center" timestamp="1606935163991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="149" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606935163991" />
+    <state width="1306" height="149" key="GridCell.Tab.0.left" timestamp="1606935163991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="149" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606935163991" />
+    <state width="1306" height="149" key="GridCell.Tab.0.right" timestamp="1606935163991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="149" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606935163991" />
+    <state x="225" y="0" key="SettingsEditor" timestamp="1605727707926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="225" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605727707926" />
+    <state x="355" y="196" key="SignInWindow" timestamp="1605728113031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="355" y="196" key="SignInWindow/0.0.1366.728@0.0.1366.728" timestamp="1605728113031" />
+    <state x="424" y="103" key="SubscriptionsDialog" timestamp="1605728118259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="103" key="SubscriptionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605728118259" />
+  </component>
+</project>
